@@ -1,0 +1,17 @@
+{
+    "name": "kloom/quiz",
+    "description": "test task",
+    "autoload": {
+        "psr-4": {
+            "Kloom\\Quiz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kloom",
+            "email": "pavelfesenko.work@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
